@@ -20,7 +20,7 @@ So, my name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 [![UiPath](https://img.shields.io/badge/-UiPath-6495ED?&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 [![Scrum](https://img.shields.io/badge/-Scrum-98FB98?&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 [![C#](https://img.shields.io/badge/-C%20Sharp-2F4F4F?&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
-[![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-DA70D6?&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
+[![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-DA70D6?&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 
 ## ⭐️ Find Me
 

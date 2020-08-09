@@ -10,8 +10,7 @@ So, my name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 ## ⭐️ About Me
 
 - 🌼 I'm currently working on... <br><br>
-[![C](https://img.shields.io/badge/-C-2F4F4F?&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
+[![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)

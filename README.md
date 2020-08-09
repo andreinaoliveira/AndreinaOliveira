@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey Guys!</h1>
+<h1 align="center">Hey Guys,</h1>
 <h3 align="center">Welcome to my Github! <br>
 So, my name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 
@@ -9,14 +9,13 @@ So, my name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 
 ## ⭐️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌼 I’m currently know
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
+
+- 🌱 I’m currently learning
 
 ## ⭐️ Find Me
 
@@ -40,5 +39,5 @@ So, my name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 <a href="https://open.spotify.com/user/wg53v12exdtheyvqci0idtobg?si=sIoMGpbyTdSZVS28AgxqHA">
   <img align="left" alt="Andreina's Spotify" width="22px" src="https://image.flaticon.com/icons/svg/311/311353.svg" />
 </a>
-
+<br>
 <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>

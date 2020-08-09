@@ -13,6 +13,7 @@ So, my name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 [![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c++&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
+[![CSS3](https://camo.githubusercontent.com/c88304005a3aeb9959c9984635e26ff4d7c325f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465)](https://github.com/andreinaoliveira/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 
 - 🌱 I’m currently learning... <br><br>

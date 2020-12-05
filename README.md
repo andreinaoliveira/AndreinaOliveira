@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
-<h1 align="center">Hi gorgeous 🧚🏻‍♀️✨</h1>
+<h1 align="center">✨ hi gorgeous ! ✨</h1>
 <h3 align="center">Welcome to my Github! <br>
 My name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 

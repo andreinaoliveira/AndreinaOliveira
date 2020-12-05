@@ -1,13 +1,13 @@
 ![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
-<h1 align="center">✨ hi gorgeous ! ✨</h1>
-<h3 align="center">Welcome to my Github! <br>
+<h1 align="center">✨ hi gorgeous ✨</h1>
+<h3 align="center">welcome to my github! <br>
 My name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 
 <p align="center">
   <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px">
 </p>
 
-## ⭐️ About Me
+## ⭐️ knowledge
 
 - 🌼 I'm currently working on... <br><br>
 [![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c++&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
@@ -22,7 +22,7 @@ My name is Andreina and I'm a Computer Science student 👩🏻‍💻</h2>
 [![C#](https://img.shields.io/badge/-C%20Sharp-2F4F4F?&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 [![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-DA70D6?&link=https://github.com/andreinaoliveira/)](https://github.com/andreinaoliveira/)
 
-## ⭐️ Find Me
+## ⭐️ find me
 
 
 <a href="https://www.linkedin.com/in/andreinaoliveira/">

@@ -37,7 +37,7 @@ my name is Andreina and I'm a computer science student, currently interning at F
   <img align="left" alt="Andreina's Tumblr" width="22px" src="https://image.flaticon.com/icons/svg/216/216515.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/wg53v12exdtheyvqci0idtobg?si=sIoMGpbyTdSZVS28AgxqHA">
+<a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA">
   <img align="left" alt="Andreina's Spotify" width="22px" src="https://image.flaticon.com/icons/svg/311/311353.svg" />
 </a>
 <br><br>

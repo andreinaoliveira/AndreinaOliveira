@@ -29,10 +29,6 @@ my name is Andreina and I'm a computer science student, currently interning at F
   <img align="left" alt="Andreina's LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/216/216508.svg" />
 </a>
 
-<a href="https://twitter.com/prinsycho">
-  <img align="left" alt="Andreina's Twitter" width="22px" src="https://image.flaticon.com/icons/svg/216/216516.svg" />
-</a>
-
 <a href="https://www.instagram.com/prinsycho/">
   <img align="left" alt="Andreina's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/216/216506.svg" />
 </a>

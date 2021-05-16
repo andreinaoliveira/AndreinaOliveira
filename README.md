@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
 <h1 align="center">✨ hello everyone ✨</h1>
 <h3 align="center">welcome to my github! <br>
-my name is Andreina and I'm a computer science student, currently interning at Flex</h3>
+my name is Andreina and I'm a computer science student, currently Tester at FIT - Instituto de Tecnologia</h3>
 
 <p align="center">
   <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px">

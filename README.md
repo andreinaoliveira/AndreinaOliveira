@@ -1,11 +1,19 @@
 ![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
-<h1 align="center">✨ hello everyone ✨</h1>
-<h3 align="center">welcome to my github! <br>
-my name is Andreina and I'm a computer science student, currently Tester at FIT - Instituto de Tecnologia</h3>
+<img src='welcome.gif'></img>
+## ⭐️ Sobre mim
+<table>
+  <tr>
+    <td>
+      <b>🎓 Cientista da Computação</b>
+      <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
+    </td>
+    <td>
+        <b>🧪 Software Tester - FIT Instituto de Tecnologia</b>
+        <img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px">
-</p>
 
 ## ⭐️ knowledge
 

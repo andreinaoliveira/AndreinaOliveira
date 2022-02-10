@@ -2,7 +2,6 @@
 <img src="welcome.gif">
 
 ## ⭐️ Sobre mim
-
 <table>
   <tr>
     <td><div align="center">
@@ -36,19 +35,18 @@
 
 
 <a href="https://www.linkedin.com/in/andreinaoliveira/">
-  <img align="left" alt="Andreina's LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/216/216508.svg" />
+  <img align="left" alt="Andreina's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="https://www.instagram.com/prinsycho/">
-  <img align="left" alt="Andreina's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/216/216506.svg" />
+  <img align="left" alt="Andreina's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 
 <a href="https://trustinthesky.tumblr.com/">
-  <img align="left" alt="Andreina's Tumblr" width="22px" src="https://image.flaticon.com/icons/svg/216/216515.svg" />
+  <img align="left" alt="Andreina's Tumblr" width="22px" src="http://www.sheerid.com/wp-content/uploads/2013/06/icon-tumblr.png" />
 </a>
 
 <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA">
-  <img align="left" alt="Andreina's Spotify" width="22px" src="https://image.flaticon.com/icons/svg/311/311353.svg" />
+  <img align="left" alt="Andreina's Spotify" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png" />
 </a>
-<br><br>
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+</div>

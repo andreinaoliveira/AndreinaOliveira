@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
-<img src="welcome.gif">
+<img src="welcomet.gif">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andreinaoliveira/">

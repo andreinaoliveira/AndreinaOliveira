@@ -31,22 +31,22 @@
 
 
 ## ⭐️ knowledge
-
-  [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://github.com/andreinaoliveira/)
-  [![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](https://github.com/andreinaoliveira/)
-  [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)](https://github.com/andreinaoliveira/)
-  [![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://github.com/andreinaoliveira/)
-  [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](https://github.com/andreinaoliveira/)
-  [![AOSP](https://img.shields.io/badge/-AOSP-05122A?style=flat&logo=android)](https://github.com/andreinaoliveira/)
-  [![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)](https://github.com/andreinaoliveira/)
-  [![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)](https://github.com/andreinaoliveira/)
-  [![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)](https://github.com/andreinaoliveira/)
-  [![UiPath](https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath)](https://github.com/andreinaoliveira/)
-  [![Adobe Xd](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd)](https://github.com/andreinaoliveira/)
-  [![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum)](https://github.com/andreinaoliveira/)
-
 <div align="center">
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-AOSP-05122A?style=flat&logo=android"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd"></a>
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum"></a>
+  
+  <br>
   <a href="https://github.com/andreinaoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&langs_count=7&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"/>  
 </div>

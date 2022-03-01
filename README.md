@@ -30,7 +30,7 @@
 </table>
 
 
-## ⭐️ knowledge
+## ⭐️ Conhecimento
 <div align="center">
   <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
   <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c"></a>

@@ -21,6 +21,7 @@
 
 Sou formada em Ciência da Computação pela Uninorte (2021) e atualmente atuo no cargo II Tester no FIT Instituto de Tecnologia da Amazônia. Na área de programação meu foco está sendo em <b>Python</b> e principalmente em <b>automação</b> (Selenium e Unittest). Também gosto de trabalhar com desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b>.
 
+Vejo a tecnologia como arte. E a arte é a "Expressão de um ideal estético através de uma atividade criadora que produz coisas reconhecidas como belas pela sociedade. Mas a arte também pode ter finalidade transgressora, expondo ao mundo uma visão crítica e nem sempre agradável da realidade." - <a href='https://www.significados.com.br/arte/'>Significado de Arte</a>
 
 <div align="center">
   <table>
@@ -70,7 +71,7 @@ Sou formada em Ciência da Computação pela Uninorte (2021) e atualmente atuo n
 </div>
 
 
-## ⭐️ Conhecimento
+## ⭐️ Hard Skills
 <div align="center">
   <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
   <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c"></a>

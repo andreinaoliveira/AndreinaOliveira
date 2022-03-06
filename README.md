@@ -16,18 +16,58 @@
 </div>
 
 ## ⭐️ Sobre mim
-<table>
-  <tr>
-    <td><div align="center">
-      <b>🎓 Cientista da Computação</b>
-      <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
-    </div></td>
-    <td><div align="center">
-        <b>🧪 Software Tester - FIT Instituto de Tecnologia</b>
-        <img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px">
-    </div></td>
-  </tr>
-</table>
+<div align='center'><b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b></div>
+<br>
+
+Sou formada em Ciência da Computação pela Uninorte (2021) e atualmente atuo no cargo II Tester no FIT Instituto de Tecnologia da Amazônia. Na área de programação meu foco está sendo em <b>Python</b> e principalmente em <b>automação</b> (Selenium e Unittest). Também gosto de trabalhar com desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b>.
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <b>🎓 Cientista da Computação</b>
+      </td>
+      <td>
+        <b>🧪 Software Tester</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
+      </td>
+      <td>
+          <img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<b>Além da programação...</b>
+
+- Canto Britney no Karaoke.
+- Maratonei todos os filmes da Lindsay Lohan.
+- Tenho uma página no tumblr que é a minha mente.
+- Adoro organização e sou fissurada em programas que tem esse objetivo. De vez ou outra posto coisas nesse nicho no Youtube e aqui no Git tenho um reposótorio de tampletes do Notion.
+- Acredito que vivemos em uma matrix. Super recomendo alguns dos meus livros favoritos que ajudam a pensar fora desse loop. 
+  - <a href='https://www.amazon.com.br/morte-dia-vale-pena-viver/dp/8543107202/ref=sr_1_1?crid=10O1MH7C5CAMM&keywords=a+morte+%C3%A9+um+dia+que+vale+viver&qid=1646599578&sprefix=a+morte+%2Caps%2C203&sr=8-1'>A morte é um dia que vale a pena viver</a>
+  - <a href='https://www.amazon.com.br/Louco-por-viver-Roberto-Shinyashiki/dp/8573128607/ref=sr_1_1?crid=17F9GOLR7DPT0&keywords=louco+por+viver&qid=1646599654&sprefix=louco+por%2Caps%2C194&sr=8-1'>Louco por viver</a>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif">
+      </td>
+      <td>
+          <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo5_250.gifv">
+      ></td>
+       <td>
+          <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo6_250.gifv">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## ⭐️ Conhecimento

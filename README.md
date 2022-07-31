@@ -40,11 +40,11 @@
 ## ⭐️ Sobre mim
 <div align='center'>
   <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
-</div>
-<br>
+</div><br>
+
 Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>II Tester</b> no FIT Instituto de Tecnologia da Amazônia. Na área de programação meu foco está sendo em <b>Python</b> e atualmente trabalho com <b>automação</b> em python (Selenium e Unittest). Também gosto de trabalhar com desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b>, <b>IoT</b> e <b>C/C++</b>.
-<br>
-<br>
+<br><br>
+
 <div align="center">
   <table>
     <tr>
@@ -52,7 +52,7 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
         <b>🎓 Cientista da Computação</b>
       </td>
       <td>
-        <b>🧪 Software Tester</b>
+        <b>🧪 Tester Pleno</b>
       </td>
     </tr>
     <tr>
@@ -70,8 +70,7 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
 <b>Além da programação...</b>
 
 - Canto Britney no Karaoke.
-- Maratonei todos os filmes da Lindsay Lohan.
-- Tenho uma página no tumblr que é a minha mente.
+- Tenho uma página no tumblr que contem todas as citações que algum dia achei interessante (séries, filmes, livros, etc).
 - Adoro organização e sou fissurada em programas que tem esse objetivo. De vez ou outra posto coisas nesse nicho no Youtube e aqui no Git tenho um reposótorio de tampletes do Notion.
 - Acredito que vivemos em uma matrix. Super recomendo alguns dos meus livros favoritos que ajudam a pensar fora desse loop. 
   - <a href='https://www.amazon.com.br/morte-dia-vale-pena-viver/dp/8543107202/ref=sr_1_1?crid=10O1MH7C5CAMM&keywords=a+morte+%C3%A9+um+dia+que+vale+viver&qid=1646599578&sprefix=a+morte+%2Caps%2C203&sr=8-1'>A morte é um dia que vale a pena viver</a>

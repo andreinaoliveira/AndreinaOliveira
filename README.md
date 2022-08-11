@@ -42,7 +42,7 @@
   <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
 </div><br>
 
-Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>II Tester</b> no FIT Instituto de Tecnologia da Amazônia. Na área de programação meu foco está sendo em <b>Python</b> e atualmente trabalho com <b>automação</b> em python (Selenium e Unittest). Também gosto de trabalhar com desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b>, <b>IoT</b> e <b>C/C++</b>.
+Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>II Tester</b> no FIT Instituto de Tecnologia da Amazônia. Na área de programação meu foco está sendo em <b>Python</b> e atualmente trabalho com <b>automação</b> em python (Selenium e Unittest). Também gosto de trabalhar com desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b>. Também possuo afinidade com <b>IoT</b> e <b>C/C++</b>.
 <br><br>
 
 <div align="center">

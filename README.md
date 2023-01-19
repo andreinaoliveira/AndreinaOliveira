@@ -113,7 +113,11 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
   <a href="https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum" target="_blank"><img src="https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum"></a>
   
   <br>
-  <a href="https://github.com/andreinaoliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"/>
+  <!---
+                                                                                                   https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&langs_count=7&theme=synthwave"/>
+  -->
+    <img src="https://github-profile-trophy.vercel.app/?username=andreinaoliveira&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
 </div>
+

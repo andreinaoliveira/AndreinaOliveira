@@ -72,10 +72,10 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
 
 <b>Além da programação...</b>
 
-- Canto Britney no Karaoke.
-- Tenho uma página no tumblr que contem todas as citações que algum dia achei interessante (séries, filmes, livros, etc).
-- Adoro organização e sou fissurada em programas que tem esse objetivo. De vez ou outra posto coisas nesse nicho no Youtube e aqui no Git tenho um reposótorio de tampletes do Notion.
-- Acredito que vivemos em uma matrix. Super recomendo alguns dos meus livros favoritos que ajudam a pensar fora desse loop. 
+- Amo Karaoke.
+- Gosto de jogos do genero indie, terror e co-op. Faço live terça e quinta.
+- Adoro organização e sou fissurada em programas que tem esse objetivo. De vez ou outra posto coisas desse nicho no Youtube.
+- Gosto de ler e super recomendo alguns dos meus livros favoritos que ajudam a pensar fora da caixa. 
   - <a href='https://www.amazon.com.br/morte-dia-vale-pena-viver/dp/8543107202/ref=sr_1_1?crid=10O1MH7C5CAMM&keywords=a+morte+%C3%A9+um+dia+que+vale+viver&qid=1646599578&sprefix=a+morte+%2Caps%2C203&sr=8-1'>A morte é um dia que vale a pena viver</a>
   -  <a href='https://www.amazon.com.br/Mais-esperto-que-Diabo-liberdade/dp/8568014003/ref=sr_1_5?crid=3GSH2MZHKL3D3&keywords=mais+esperto+que+o+diabo&qid=1646604662&sprefix=Mais+es%2Caps%2C290&sr=8-5'>Mais esperto que o Diabo</a>
   - <a href='https://www.amazon.com.br/Louco-por-viver-Roberto-Shinyashiki/dp/8573128607/ref=sr_1_1?crid=17F9GOLR7DPT0&keywords=louco+por+viver&qid=1646599654&sprefix=louco+por%2Caps%2C194&sr=8-1'>Louco por viver</a>

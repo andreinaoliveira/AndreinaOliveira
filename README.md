@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
-
 <div align="center">
   <a href="https://github.com/andreinaoliveira">
     <img src="Welcome.png" width="500">

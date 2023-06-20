@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4">
 <div align="center">
   <a href="https://github.com/andreinaoliveira">
     <img align="center" src="Welcome.png" width="500">

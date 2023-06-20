@@ -81,6 +81,7 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
 </div>
 
 ## ⭐️ Hard Skills
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=andreinaoliveira&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
 <div align="center">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -88,8 +89,9 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
   <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <!-- Cypress --> <img src="https://img.shields.io/badge/Cypress-639a4f?style=for-the-badge&logo=Cypress&logoColor=white">
   <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
-  <!-- QAlity --> <img src="https://img.shields.io/badge/QAlity%20Test-0093d8?style=for-the-badge&logo=Jira&logoColor=white">
   <!-- Xray --> <img src="https://img.shields.io/badge/Xray%20Test-3abb4c?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- Zephyr --> <img src="https://img.shields.io/badge/Zephyr%20Test-87cefa?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- QAlity --> <img src="https://img.shields.io/badge/QAlity%20Test-0093d8?style=for-the-badge&logo=Jira&logoColor=white">
   <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
   <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
@@ -97,6 +99,5 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
   <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
   <br>
   <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/">--> 
-  <img src="https://github-profile-trophy.vercel.app/?username=andreinaoliveira&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">  
 </div>
 

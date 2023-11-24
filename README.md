@@ -68,8 +68,7 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
 
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=andreinaoliveira&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
-<div align="right">
+<div align="center">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
@@ -86,4 +85,17 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
   <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
   <br>
 </div>
+
+
+<!-- 
+theme=ocean_dark 
+tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
+-->
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreinaoliveira&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreinaoliveira&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreinaoliveira&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreinaoliveira&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
 

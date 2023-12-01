@@ -26,12 +26,8 @@
 </div>
 
 ## ⭐️ Sobre mim
-<div align='center'>
-  <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
-</div><br>
 
-Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>Desenvolvedora de testes Pleno</b> no INDT - Instituto de Desenvolvimento Tecnológico. Atuando há 2 anos na área de teste e meu foco está sendo em automação com <b>Cypress</b>. Também gosto de trabalhar com desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b> e ando ampliando meu conhecimento em Desenvolvimento Web.
-<br><br>
+Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>Desenvolvedora de testes Pleno</b> no INDT - Instituto de Desenvolvimento Tecnológico. Atuando há 3 anos na área de teste com testes frontend e backend. Por aqui gosto de compartilhar automações de teste geralmente em Cypress e Selenium. Atualmente estou estudando Playwright e venho trazer repositórios sobre.
 
 <div align="center">
   <table>

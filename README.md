@@ -27,7 +27,7 @@
 
 ## ⭐️ Sobre mim
 
-Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>Desenvolvedora de testes Pleno</b> no INDT - Instituto de Desenvolvimento Tecnológico. Atuando há 3 anos na área de teste com testes frontend e backend. Por aqui gosto de compartilhar automações de teste geralmente em Cypress e Selenium. Atualmente estou estudando Playwright e venho trazer repositórios sobre.
+Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e tenho pós graduação pela Vincit em <b>QA e Teste de Software</b> e <b>Gestão ágil de projetos</b>. Atualmente atuo no cargo <b>Mid-Level Quality Assurance Engineer Automation</b> no CI&T. Por aqui gosto de compartilhar meus aprendizados. Atualmente estou estudando Java e Junit e venho trazer repositórios sobre.
 
 <div align="center">
   <table>
@@ -43,16 +43,11 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
 </div>
 
 <b>Além da programação...</b>
+- Gosto de jogos do genero indie, cozy e co-op. Faço live terça e quinta na [Twitch](https://www.twitch.tv/prinsycho).
+- Gosto de ler e tenho um podcast literário onde trago livros clássicos, segue link no [Spotify]([https://www.youtube.com/@AndreinaOliveira/videos](https://open.spotify.com/show/1YLqL12p0kYUPbHs7y6hgr)
+- Tenho um canal de vlogs e opniões no [Youtube](https://www.youtube.com/@AndreinaOliveira/videos). 
 
-- Amo Karaoke.
-- Gosto de jogos do genero indie, terror e co-op. Faço live terça e quinta na [Twitch](https://www.twitch.tv/prinsycho).
-- Adoro organização e sou viciada em Notion. De vez ou outra posto coisas desse nicho no [Youtube](https://www.youtube.com/@AndreinaOliveira/videos).
-- Gosto de ler e super recomendo alguns dos meus livros favoritos que ajudam a pensar fora da caixa. 
-  - <a href='https://www.amazon.com.br/morte-dia-vale-pena-viver/dp/8543107202/ref=sr_1_1?crid=10O1MH7C5CAMM&keywords=a+morte+%C3%A9+um+dia+que+vale+viver&qid=1646599578&sprefix=a+morte+%2Caps%2C203&sr=8-1'>A morte é um dia que vale a pena viver</a>
-  -  <a href='https://www.amazon.com.br/Mais-esperto-que-Diabo-liberdade/dp/8568014003/ref=sr_1_5?crid=3GSH2MZHKL3D3&keywords=mais+esperto+que+o+diabo&qid=1646604662&sprefix=Mais+es%2Caps%2C290&sr=8-5'>Mais esperto que o Diabo</a>
-  - <a href='https://www.amazon.com.br/Louco-por-viver-Roberto-Shinyashiki/dp/8573128607/ref=sr_1_1?crid=17F9GOLR7DPT0&keywords=louco+por+viver&qid=1646599654&sprefix=louco+por%2Caps%2C194&sr=8-1'>Louco por viver</a>
-
-<div align="center">
+ <div align="center">
   <table>
     <tr>
       <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif"></td>
@@ -65,20 +60,21 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
-  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <!-- TypeScript --> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <!-- K6 --> <img src="https://img.shields.io/badge/K6-7d64ff?style=for-the-badge&logo=k6&logoColor=white">
   <!-- Cypress --> <img src="https://img.shields.io/badge/Cypress-639a4f?style=for-the-badge&logo=Cypress&logoColor=white">
   <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
   <!-- Xray --> <img src="https://img.shields.io/badge/Xray%20Test-3abb4c?style=for-the-badge&logo=Jira&logoColor=white">
   <!-- Zephyr --> <img src="https://img.shields.io/badge/Zephyr%20Test-87cefa?style=for-the-badge&logo=Jira&logoColor=white">
   <!-- QAlity --> <img src="https://img.shields.io/badge/QAlity%20Test-0093d8?style=for-the-badge&logo=Jira&logoColor=white">
   <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
+  <!-- Swagger --> <img src="https://img.shields.io/badge/Swagger-87be3f?style=for-the-badge&logo=swagger&logoColor=white">
   <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
   <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
-  <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
   <br>
 </div>
 

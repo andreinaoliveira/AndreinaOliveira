@@ -5,21 +5,22 @@
   </a>
 </div>
 <br>
-
+<!-- 
 <div align="center">
-  <!-- Work Links -->
+  <!-- Work Links --
   <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://hefesto.uea.edu.br/gitlab/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <!-- YT Links -->
+  <!-- YT Links --
   <a href="https://www.twitch.tv/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@AndreinaOliveira" target="_blank"><img src="https://img.shields.io/badge/@AndreinaOliveira-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <!-- Social Links -->
+  <!-- Social Links --
   <a href="https://instagram.com/prinsycho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- OTH Links -->
+  <!-- OTH Links  --
   <a href="https://open.spotify.com/show/1YLqL12p0kYUPbHs7y6hgr" target="_blank"><img src="https://img.shields.io/badge/Poscast%20Literario-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
   <a href="https://steamcommunity.com/id/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+-->
 
 ## ⭐️ Sobre mim
 
@@ -39,7 +40,7 @@ Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e tenho pós
 </div>
 
 <b>Além da programação...</b>
-- Gosto de jogos do genero indie, cozy e co-op. Faço live terça e quinta na [Twitch](https://www.twitch.tv/prinsycho).
+- Gosto de jogos do genero indie, cozy e co-op. Faço lives [Twitch](https://www.twitch.tv/prinsycho), vamos amigar na [Steam](https://steamcommunity.com/id/prinsycho).
 - Gosto de ler e tenho um podcast literário onde trago livros clássicos, segue link no [Spotify](https://open.spotify.com/show/1YLqL12p0kYUPbHs7y6hgr)
 - Tenho um canal de vlogs e opniões no [Youtube](https://www.youtube.com/@AndreinaOliveira/videos). 
 
